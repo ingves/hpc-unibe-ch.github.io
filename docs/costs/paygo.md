@@ -1,6 +1,6 @@
-# Pay-as-you-go (PAYG) Scheme
+# Pay-as-you-go (PAYGO) Scheme
 
-The PAYG model on UBELIX provides flexible, usage-based billing for HPC resources. It’s ideal for users with sporadic or changing workloads. With PAYG, you only pay for the actual resources you use - there are no upfront payments or long-term commitments.
+The PAYGO model on UBELIX provides flexible, usage-based billing for HPC resources. It’s ideal for users with sporadic or changing workloads. With PAYGO, you only pay for the actual resources you use - there are no upfront payments or long-term commitments.
 
 !!! tip "Debug & Preemptable Jobs"
     Jobs running in **debug** or **preemptable** QOS are **not billed**, allowing you to test and benchmark your code efficiently before committing to longer runs.
@@ -43,12 +43,12 @@ Research projects on UBELIX receive an annual credit of **CHF 1000** per cost ce
 !!! danger "Warning"
     This annual credit is granted once per cost center. Please note that if this is abused, we may have to discontinue the free tier.
 
-## Using PAYG in Practice
+## Using PAYGO in Practice
 
-- Projects are created and managed in the IAM portal by technical managers. Managers can appoint project administrators ("delegates") to help manage project members.
+- Projects are created and managed in the IAM portal by technical managers. Managers can appoint project administrators ("delegates") to help manage project members [(details)](https://intern.unibe.ch/dienstleistungen/informatik/dienstleistungen_der_informatikdienste/dienstleistungen___ressourcen/high_performance_computing___hpc___grid/index_ger.html#tab-pane-6)
 - Project members are users authorized to use the project’s resources. Every project has a unique identifier ("wckey") that links users to the project.
 - When creating a project, a valid credit number and cost limit must be set.
-- To submit a job using PAYG:
+- To submit a job using PAYGO:
     - Select the paygo account: `--account=paygo`
     - Specify your project’s wckey: `--wckey=<wckey>`
 - Only jobs submitted with the paygo account and a valid wckey will incur costs.

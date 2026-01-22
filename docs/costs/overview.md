@@ -31,7 +31,7 @@ Far from being merely an additional cost, the new billing scheme offers several 
 UBELIX offers **three pricing options**, allowing flexibility depending on your project’s funding, scale, and duration:
 
 1. [**Investment Model**](investments.md) – for long-term, intensive compute use.
-2. [**Pay-as-you-Go (PAYG)**](payg.md) – for flexible workloads.
+2. [**Pay-as-you-Go (PAYGO)**](paygo.md) – for flexible workloads.
 3. [**Free Tiers (F1–F3)**](freetier.md) – for students, teaching, and small unfunded projects.
 
 

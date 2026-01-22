@@ -1,11 +1,11 @@
 # Investment Model
 
-The **Investment Model** is ideal for projects that run continuously and require reliable access to compute resources.
-By committing to a period of 12–60 months, users receive a **pseudo-exclusive allocation** at a reduced cost — with potential savings of up to **30%** compared to the PAYG model.
+The Investment Model is ideal for projects that run continuously and require reliable access to compute resources.
+By committing to a period of 12–60 months, users receive a pseudo-exclusive allocation at a reduced cost — with potential savings of up to 30% compared to the PAYGO model.
 
-Unused portions of these investments are made available to others as **preemptable resources**, ensuring cluster efficiency.
+Unused portions of these investments are made available to others as preemptable resources, ensuring cluster efficiency.
 
-Projects that need **continuous computing** and **short waiting times** and have a solid understanding of their **resource requirements** should consider this option for the best long-term value.
+Projects that require near‑continuous computing, short queue times, and have well‑defined resource requirements should consider this option for the best long‑term value. Note that the break‑even point between the investment model and a pay‑as‑you‑go (paygo) model occurs when resource utilization exceeds 75 % on a continuous (24 hours/7 days) basis.
 
 ## Pricing
 

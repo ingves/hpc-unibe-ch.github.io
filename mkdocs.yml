@@ -72,7 +72,7 @@ nav:
   - Costs and Billing:
       - Overview: costs/overview.md
       - Investments: costs/investments.md
-      - Pay-as-you-go: costs/payg.md
+      - Pay-as-you-go: costs/paygo.md
       - Free tiers: costs/freetier.md
       - FAQ: costs/faq.md
       - Storage costs: costs/storage.md

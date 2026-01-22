@@ -82,7 +82,7 @@ UBELIX maximizes hardware utilization by making unused investor resources availa
 ## How Free-Tier Resources Work in Practice
 
 - The **F1 User Free-Tier** is the default for all users and is associated with the **gratis** account.
-- You can use free-tier resources even if you are also associated with a cost-enabled PAYG project.
+- You can use free-tier resources even if you are also associated with a cost-enabled *paygo*-project.
 - You may associate a job with a cost-enabled project by specifying its wckey, even when using the free-tier. This allows you to track usage for project reporting without incurring any costs.
 - The following Quality of Service (QOS) levels are enabled for gratis account jobs:
     - `job_gratis`: Standard free-tier jobs (F1)
