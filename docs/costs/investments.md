@@ -7,6 +7,12 @@ Unused portions of these investments are made available to others as preemptable
 
 Projects that require near‑continuous computing, short queue times, and have well‑defined resource requirements should consider this option for the best long‑term value. Note that the break‑even point between the investment model and a pay‑as‑you‑go (paygo) model occurs when resource utilization exceeds 75 % on a continuous (24 hours/7 days) basis.
 
+!!! info "Compute investment update"
+    We are currently operating at full capacity and cannot accept new GPU investment requests at this time.
+    <br>Until further notice, CPU investments will be limited to two nodes per investor on a first‑come, first‑served basis.
+
+    New GPU investment opportunities will become available once the UBELIX data‑center expansion (planned for 2026) is complete. Please plan accordingly.
+
 ## Pricing
 
 Investment prices are based on CAPEX depreciation over five years, with a 6% annual reduction for committed duration.
