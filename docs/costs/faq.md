@@ -1,5 +1,10 @@
 # Billing FAQ
 
+### How do i create a PAYGO project?
+
+!!! question "Answer"
+    Projects are being created by the IT-responsible-person of your institute. They know the process and how to proceed!
+
 ### Is there be a possibility to cap my bill?
 
 !!! question "Answer"
