@@ -8,7 +8,7 @@
 ### Is there be a possibility to cap my bill?
 
 !!! question "Answer"
-    Yes. Each cost-enabled project needs to set-up a price-limit. This limit will be evaluated before starting a job. Also, cost-intensive jobs will print a warning-message on submit. Please note that the cost ceiling cannot be guaranteed in all cases, as simultaneous job submissions may cause one job to start before the other is recorded, potentially exceeding the limit.
+    Yes. Each PAYGO project needs to set-up a monthly cost limit. This limit is evaluated before starting a job. All jobs print a message with the projected costs on submit. Please note that the cost ceiling cannot be guaranteed in all cases, as simultaneous job submissions may cause one job to start before the other is recorded, potentially exceeding the limit by a small amount.
 
 ### How often will we receive a bill?
 
