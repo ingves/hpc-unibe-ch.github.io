@@ -42,26 +42,12 @@ This tier is ideal for:
 
 - Free-tier usage is tracked per user and resets as jobs finish.
 - Jobs submitted beyond your simultaneous TRES minute limit will be held in the queue until resources become available.
-- If your free-tier becomes too restrictive to your workflow, you’ll need to use a cost-enabled research project "paygo" account or investment account to submit more resource intensive jobs.
+- If your free-tier becomes too restrictive to your workflow, you’ll need to use the "paygo" account of a PAYGO project or investment account to submit more resource intensive jobs.
 - Resource availability (especially GPUs) may vary depending on overall system usage.
 
 ## F2 - Research Group / Project Free Tier
 
-Research projects on UBELIX receive an annual credit of **CHF 1000** per cost center. This credit is available only for cost-enabled projects (projects that generate bills for resource usage).
-
-- **How It Works:**
-    - Each cost-enabled project receives a monthly bill for HPC resource usage.
-    - At the end of the fiscal year, up to CHF 1000 is refunded per cost center (*REF-XX-XXX / REF-XXX-XX*) through an internal transfer (“Umbuchung”).
-    - If your cost center's annual usage is less than CHF 1000, the full amount is refunded. If usage is higher, only CHF 1000 is refunded.
-    - The refund is applied automatically; no action is required from the user.
-    - This credit helps research groups manage costs and supports exploratory work without financial risk.
-
-- **Example:**
-    - If your cost center accumulates CHF 800 in costs over the year, you will receive an CHF 800 refund.
-    - If your cost center accumulates CHF 1500, you will receive a CHF 1000 refund.
-
-!!! danger "Warning"
-    This annual credit is granted once per cost center. Please note that if this is abused, we may have to discontinue the free tier.
+PAYGO projects are supported by central IT Services with an [annual support credit](../paygo/#research-group-project-free-tier).
 
 ## F3 - Preemptable Tier
 
@@ -82,8 +68,8 @@ UBELIX maximizes hardware utilization by making unused investor resources availa
 ## How Free-Tier Resources Work in Practice
 
 - The **F1 User Free-Tier** is the default for all users and is associated with the **gratis** account.
-- You can use free-tier resources even if you are also associated with a cost-enabled *paygo*-project.
-- You may associate a job with a cost-enabled project by specifying its wckey, even when using the free-tier. This allows you to track usage for project reporting without incurring any costs.
+- You can use free-tier resources even if you are also associated with a cost-enabled PAYGO-project.
+- You may associate a job with a PAYGO project by specifying its wckey, even when using the free-tier. This allows you to track usage for project reporting without incurring any costs.
 - The following Quality of Service (QOS) levels are enabled for gratis account jobs:
     - `job_gratis`: Standard free-tier jobs (F1)
     - `job_cpu_preemptable`: Access to preemptable CPU resources (F3)

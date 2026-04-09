@@ -27,25 +27,24 @@ UBELIX offers significantly lower prices than commercial cloud providers—and y
 
 ### Research Group / Project Free Tier
 
-Research projects on UBELIX receive an annual credit of **CHF 1000** per cost center. This credit is available only for cost-enabled projects (projects that generate bills for resource usage).
+PAYGO projects are supported by central IT Services with an annual support credit of **up to CHF 1,000 per cost center**. This credit is intended to help research groups cover costs and to support exploratory work with limited financial risk.
 
-- **How It Works:**
-    - Each cost-enabled project receives a monthly bill for HPC resource usage.
-    - At the end of the fiscal year, up to CHF 1000 is refunded per cost center (*REF-XX-XXX / REF-XXX-XX*) through an internal transfer (“Umbuchung”).
-    - If your cost center's annual usage is less than CHF 1000, the full amount is refunded. If usage is higher, only CHF 1000 is refunded.
-    - The refund is applied automatically; no action is required from the user.
-    - This credit helps research groups manage costs and supports exploratory work without financial risk.
+The credit is awarded once per fiscal year and is applied **per cost center**. If multiple PAYGO projects use the same cost center, they all draw from the same annual credit limit.
 
-- **Example:**
-    - If your cost center accumulates CHF 800 in costs over the year, you will receive an CHF 800 refund.
-    - If your cost center accumulates CHF 1500, you will receive a CHF 1000 refund.
+All monthly PAYGO invoices must be paid in full when due. The support credit is then reimbursed automatically **at the end of the fiscal year** through an internal transfer to the cost center. No action is required from the user.
+
+**Examples**:
+
+  - If a cost center incurs CHF 800 in PAYGO charges during the year, it receives a refund of CHF 800.
+  - If a cost center incurs CHF 1,500 in PAYGO charges during the year, it receives the maximum refund of CHF 1,000.
 
 !!! danger "Warning"
-    This annual credit is granted once per cost center. Please note that if this is abused, we may have to discontinue the free tier.
+
+    This credit is granted only once per cost center each fiscal year. If the free tier is misused, we may discontinue it.
 
 ## Using PAYGO in Practice
 
-- Projects are created and managed in the IAM portal by technical managers. Managers can appoint project administrators ("delegates") to help manage project members [(details)](https://intern.unibe.ch/dienstleistungen/informatik/dienstleistungen_der_informatikdienste/dienstleistungen___ressourcen/high_performance_computing___hpc___grid/index_ger.html#tab-pane-6)
+- Projects are created and managed in the IAM portal by [institute technology managers](https://intern.unibe.ch/dienstleistungen/informatik/dienstleistungen_der_informatikdienste/it_verantwortliche/index_ger.html). Managers can appoint project administrator delegates to help manage project members [(details)](https://serviceportal.unibe.ch/esc?id=kb_article_view&sys_kb_id=d6dbd470473b3a904fb1438c736d4306) 
 - Project members are users authorized to use the project’s resources. Every project has a unique identifier ("wckey") that links users to the project.
 - When creating a project, a valid credit number and cost limit must be set.
 - To submit a job using PAYGO:

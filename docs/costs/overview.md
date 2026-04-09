@@ -47,7 +47,7 @@ There are three types of accounts, each with different resource access and cost 
   The default account for all users. It is free to use and restricted in resources. Every user has access to a gratis account, which never incurs costs.
 
 - **paygo Account**
-  The "pay as you go" account is available to users who are members of cost-enabled research projects. When submitting jobs with this account, users must specify a valid project identifier ("wckey") for accounting. Costs are generated at job submission based on actual resource usage.
+  The "pay as you go" account is available to users who are members of cost-enabled PAYGO projects. When submitting jobs with this account, users must specify a valid project identifier ("wckey") for accounting. Costs are generated at job submission based on actual resource usage.
 
 - **invest Account**
   The investor account distinguishes between free resources (gratis) and resources funded by investment. This account is available to users associated with a UBELIX investment. Jobs submitted under this account do not generate costs at submission; all costs are prepaid through the investment.
@@ -55,9 +55,9 @@ There are three types of accounts, each with different resource access and cost 
 - **teaching Account**
 	This account is used for reservations that are created for teaching. When submitting jobs with this accounts, users must specify a valid reservation for scheduling. No costs are generated when using the teaching account.
 
-### Cost-enabled Research Projects
+### Cost-enabled Research (PAYGO) Projects
 
-- Projects are created and managed in the IAM portal by technical managers. Managers can appoint additional project administrators (“delegates”) to manage project members.
+- PAYGO Projects are created and managed in the IAM portal by [institute technology managers](https://intern.unibe.ch/dienstleistungen/informatik/dienstleistungen_der_informatikdienste/it_verantwortliche/index_ger.html). Managers can appoint project administrator delegates to help manage project members [(details)](https://serviceportal.unibe.ch/esc?id=kb_article_view&sys_kb_id=d6dbd470473b3a904fb1438c736d4306) 
 - Project members are those who can use the project’s resources. The wckey associates users with projects and is required for job submissions that incur costs.
 - During project creation, a credit number and a cost limit must be specified.
 - Each project has a unique identifier called a "wckey" that is used during job
