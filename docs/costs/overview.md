@@ -57,7 +57,7 @@ There are three types of accounts, each with different resource access and cost 
 
 ### Cost-enabled Research (PAYGO) Projects
 
-- PAYGO Projects are created and managed in the IAM portal by [technical managers](https://intern.unibe.ch/dienstleistungen/informatik/dienstleistungen_der_informatikdienste/it_verantwortliche/index_ger.html). Managers can appoint project administrator delegates to help manage project members [(details)](https://serviceportal.unibe.ch/esc?id=kb_article_view&sys_kb_id=d6dbd470473b3a904fb1438c736d4306) 
+- PAYGO Projects are created and managed in the IAM portal by [institute technology managers](https://intern.unibe.ch/dienstleistungen/informatik/dienstleistungen_der_informatikdienste/it_verantwortliche/index_ger.html). Managers can appoint project administrator delegates to help manage project members [(details)](https://serviceportal.unibe.ch/esc?id=kb_article_view&sys_kb_id=d6dbd470473b3a904fb1438c736d4306) 
 - Project members are those who can use the project’s resources. The wckey associates users with projects and is required for job submissions that incur costs.
 - During project creation, a credit number and a cost limit must be specified.
 - Each project has a unique identifier called a "wckey" that is used during job

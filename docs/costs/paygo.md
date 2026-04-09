@@ -44,7 +44,7 @@ All monthly PAYGO invoices must be paid in full when due. The support credit is 
 
 ## Using PAYGO in Practice
 
-- Projects are created and managed in the IAM portal by [technical managers](https://intern.unibe.ch/dienstleistungen/informatik/dienstleistungen_der_informatikdienste/it_verantwortliche/index_ger.html). Managers can appoint project administrator delegates to help manage project members [(details)](https://serviceportal.unibe.ch/esc?id=kb_article_view&sys_kb_id=d6dbd470473b3a904fb1438c736d4306) 
+- Projects are created and managed in the IAM portal by [institute technology managers](https://intern.unibe.ch/dienstleistungen/informatik/dienstleistungen_der_informatikdienste/it_verantwortliche/index_ger.html). Managers can appoint project administrator delegates to help manage project members [(details)](https://serviceportal.unibe.ch/esc?id=kb_article_view&sys_kb_id=d6dbd470473b3a904fb1438c736d4306) 
 - Project members are users authorized to use the project’s resources. Every project has a unique identifier ("wckey") that links users to the project.
 - When creating a project, a valid credit number and cost limit must be set.
 - To submit a job using PAYGO:

@@ -3,7 +3,7 @@
 ### How do i create a PAYGO project?
 
 !!! question "Answer"
-    Projects are being created by the IT-responsible-person of your institute. They know the process and how to proceed!
+    Projects are being created by the [technology managers](https://intern.unibe.ch/dienstleistungen/informatik/dienstleistungen_der_informatikdienste/it_verantwortliche/index_ger.html) of your institute. They know the process and how to proceed!
 
 ### Is there be a possibility to cap my bill?
 

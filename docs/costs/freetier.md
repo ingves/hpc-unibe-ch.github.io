@@ -47,21 +47,7 @@ This tier is ideal for:
 
 ## F2 - Research Group / Project Free Tier
 
-PAYGO projects are supported by central IT Services with an annual support credit of **up to CHF 1,000 per cost center**. This credit is intended to help research groups cover costs and to support exploratory work with limited financial risk.
-
-The credit is awarded once per fiscal year and is applied **per cost center**. If multiple PAYGO projects use the same cost center, they all draw from the same annual credit limit.
-
-All monthly PAYGO invoices must be paid in full when due. The support credit is then reimbursed automatically **at the end of the fiscal year** through an internal transfer to the cost center. No action is required from the user.
-
-**Examples**:
-
-  - If a cost center incurs CHF 800 in PAYGO charges during the year, it receives a refund of CHF 800.
-  - If a cost center incurs CHF 1,500 in PAYGO charges during the year, it receives the maximum refund of CHF 1,000.
-
-!!! danger "Warning"
-
-    This credit is granted only once per cost center each fiscal year. If the free tier is misused, we may discontinue it.
-
+PAYGO projects are supported by central IT Services with an [annual support credit](../paygo/#research-group-project-free-tier).
 
 ## F3 - Preemptable Tier
 
